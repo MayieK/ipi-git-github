@@ -1,5 +1,4 @@
-BEAL
-DUPONT
-FAURE
+dupont
+faure
 GIRARD
 DURANT

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 dupont
 faure
 GIRARD
 DURANT
+=======
+
+>>>>>>> 5a6c5d70c8fb9b582288aa2a194142c0483be8b6
